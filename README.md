@@ -1,2 +1,2 @@
-# hello-worl-app
+# hello-world-app
 Java Hello World Application
